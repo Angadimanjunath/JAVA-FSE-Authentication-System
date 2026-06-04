@@ -62,29 +62,17 @@ Gmail SMTP
 
 ## Screenshots
 
-### Login Page
+### Authentication Flow (Login, Forgot Password, OTP Email)
 
-![Login Page](screenshots/loginpage.png)
-
-### Forgot Password
-
-![Forgot Password](screenshots/forgotpassword.png)
-
-### OTP Email
-
-![OTP Email](screenshots/otps.png)
-
-### Reset Password
-
-![Reset Password](screenshots/otpreset.png)
+![Authentication Flow](Screenshots/Login_Passwordreset_mail.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Author
 
-Manjunath
+**Manjunath**
 
 ## Future Enhancements
 
@@ -92,4 +80,4 @@ Manjunath
 * User Profile Management
 * OTP Expiry
 * Resend OTP
-* Role Based Authentication
+* Role-Based Authentication
